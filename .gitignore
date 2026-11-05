@@ -1,0 +1,73 @@
+# ============================
+# Bach hoa Gia dinh Ba Tu
+# ASP.NET Core Web API + WinForms + SQL Server
+# ============================
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.userprefs
+
+# Build output / temporary .NET files
+**/bin/
+**/obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+artifacts/
+TestResults/
+*.pdb
+*.cache
+*.tmp
+*.log
+*.binlog
+
+# NuGet generated files
+**/packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Local backups and migration/upgrade logs
+Backup/
+Backup*/
+MigrationBackup/
+_UpgradeReport_Files/
+UpgradeLog*.htm
+UpgradeLog*.HTML
+UpgradeLog*.xml
+
+# Files not part of the final project
+BAI_THUC_HANH_BUOI_4.md
+
+# Local SQL Server data and backups
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.bacpac
+
+# Local configuration with credentials / JWT secrets
+**/appsettings.json
+**/appsettings.*.json
+!**/appsettings.example.json
+!**/appsettings.sample.json
+.env
+.env.*
+!.env.example
+*.pfx
+*.publishsettings
+*.pubxml
+
+# Other generated / temporary files
+node_modules/
+~$*
+.DS_Store
+Thumbs.db

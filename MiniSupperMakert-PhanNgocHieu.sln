@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSupermarket.API", "MiniSupermarket.API\MiniSupermarket.API.csproj", "{9C2F8BD4-0A78-47AD-AF67-BB0BE91E1796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSupermarket.WinForms", "MiniSupermarket.WinForms\MiniSupermarket.WinForms.csproj", "{EB37602C-621E-41CB-9A56-73F085DEE189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2F8BD4-0A78-47AD-AF67-BB0BE91E1796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2F8BD4-0A78-47AD-AF67-BB0BE91E1796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2F8BD4-0A78-47AD-AF67-BB0BE91E1796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2F8BD4-0A78-47AD-AF67-BB0BE91E1796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB37602C-621E-41CB-9A56-73F085DEE189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB37602C-621E-41CB-9A56-73F085DEE189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB37602C-621E-41CB-9A56-73F085DEE189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB37602C-621E-41CB-9A56-73F085DEE189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC25CB1B-9004-4AFD-A82F-D48C632BE665}
+	EndGlobalSection
+EndGlobal
